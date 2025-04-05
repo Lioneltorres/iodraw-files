@@ -32,7 +32,7 @@
           <mxGeometry x="-266" y="668" width="1012" height="134" as="geometry" />
         </mxCell>
         <mxCell id="JKZDbfto4fR-ltJQxJWe-3" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;b style=&quot;&quot;&gt;哲学&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="190" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="189" y="59" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JKZDbfto4fR-ltJQxJWe-5" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;b style=&quot;&quot;&gt;意识形态&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="190" y="187.5" width="120" height="60" as="geometry" />
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="JKZDbfto4fR-ltJQxJWe-7" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;b style=&quot;&quot;&gt;产业 就业与市场&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="133" y="704" width="222" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_cqa36lFIil0XmPKOQ-1" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;b style=&quot;&quot;&gt;意识形态&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="191" y="345" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
