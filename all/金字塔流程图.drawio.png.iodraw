@@ -40,8 +40,8 @@
         <mxCell id="JKZDbfto4fR-ltJQxJWe-6" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;资本与金融&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="340" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JKZDbfto4fR-ltJQxJWe-7" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;产业与就业&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="59" y="698" width="180" height="60" as="geometry" />
+        <mxCell id="JKZDbfto4fR-ltJQxJWe-7" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;产业 就业与市场&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="133" y="704" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
