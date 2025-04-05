@@ -1,0 +1,52 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="2wzmEVZ6TTXmtwUAG2z_" name="Page-1">
+    <mxGraphModel dx="2389" dy="818" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;rotation=-75;fillColor=#043D28;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="190" y="104.5" width="35" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;fillColor=#67AB9F;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="172" y="5" width="151" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-4" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;strokeColor=#97D077;fillColor=#97D077;size=0.19916538043788967;" parent="1" vertex="1">
+          <mxGeometry x="76" y="163" width="343" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;rotation=-75;fillColor=#003300;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="113" y="247.5" width="35" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-7" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=#66B2FF;size=0.15206658202849457;" parent="1" vertex="1">
+          <mxGeometry x="-35" y="309" width="556" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;rotation=-75;fillColor=#000033;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="8" y="418.5" width="35" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-10" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;strokeColor=#EA6B66;fillColor=#EA6B66;size=0.1085665818490246;" parent="1" vertex="1">
+          <mxGeometry x="-144" y="480" width="772" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;rotation=-75;fillColor=#660000;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-116" y="588.5" width="35" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-13" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3B3B3;size=0.08397932816537468;" parent="1" vertex="1">
+          <mxGeometry x="-266" y="668" width="1012" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="JKZDbfto4fR-ltJQxJWe-3" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;哲学&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKZDbfto4fR-ltJQxJWe-5" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;意识形态&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="187.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKZDbfto4fR-ltJQxJWe-6" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;资本与金融&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKZDbfto4fR-ltJQxJWe-7" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;产业与就业&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="148" y="517" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKZDbfto4fR-ltJQxJWe-8" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;市场&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="700" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
